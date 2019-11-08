@@ -5,8 +5,8 @@
                 <div class="col-sm-6">
                     <div class="contactinfo">
                         <ul class="nav nav-pills">
-                            <li><a href="#"><i class="fa fa-phone"></i> 010 010010</a></li>
-                            <li><a href="#"><i class="fa fa-envelope"></i> info@nodomain.com</a></li>
+                            <li><a href="#"><i class="fa fa-phone"></i> (+233)-123-1234</a></li>
+                            <li><a href="#"><i class="fa fa-envelope"></i> info@domain.com</a></li>
                         </ul>
                     </div>
                 </div>
