@@ -146,7 +146,7 @@
                 <div class="tab-pane fade" id="reviews" >
                     <div class="col-sm-12">
                         <ul>
-                            <li><a href=""><i class="fa fa-user"></i>EUGEN</a></li>
+                            <li><a href=""><i class="fa fa-user"></i>EUGENE</a></li>
                             <li><a href=""><i class="fa fa-clock-o"></i>12:41 PM</a></li>
                             <li><a href=""><i class="fa fa-calendar-o"></i>31 DEC 2014</a></li>
                         </ul>
