@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost/bcom'),
+    'url' => env('APP_URL', 'http://localhost/'),
 
     /*
     |--------------------------------------------------------------------------
