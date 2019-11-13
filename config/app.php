@@ -93,7 +93,7 @@ return [
 
 
     // Enable heroku logging
-    'log' => 'errorlog'
+    'log' => 'errorlog',
 
 
 
