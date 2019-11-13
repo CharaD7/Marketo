@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost/'),
+    'url' => env('APP_URL', 'http://agile-badlands-95182.herokuapp.com/'),
 
     /*
     |--------------------------------------------------------------------------
@@ -90,6 +90,13 @@ return [
     | the language folders that are provided through your application.
     |
     */
+
+
+    // Enable heroku logging
+    'log' => 'errorlog'
+
+
+
 
     'fallback_locale' => 'en',
 
