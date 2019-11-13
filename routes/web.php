@@ -76,3 +76,7 @@ Route::group(['prefix'=>'admin','middleware'=>['auth','admin']],function (){
     Route::get('delete-coupon/{id}','CouponController@destroy');
 ///
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
